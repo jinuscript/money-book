@@ -1,0 +1,18 @@
+[
+  {
+    "amount": 2800,
+    "type": "지출",
+    "category": "식비",
+    "description": "카페 녹다에서 아메리카노 구매함",
+    "satisfaction": "좋음",
+    "date": "2025-09-25"
+  },
+  {
+    "amount": 14000,
+    "type": "지출",
+    "category": "문화",
+    "description": "체인쏘맨 극장판",
+    "satisfaction": "좋음",
+    "date": "2025-09-25"
+  }
+]
